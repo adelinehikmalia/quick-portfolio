@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Adeline is currently a final year undergraduate student pursuing a degree in Mathematics, UIN Syarif Hidayatullah Jakarta. 
   She is interested in analytics, build statistical models, data visualization, machine learning, and data science. 
   Other than her study, Adeline is non-academically active. She joined several organizations, volunteers, and other social events.
-  <br><br>
+  <br><br><br>
   <a href="https://www.linkedin.com/in/adelinehikmalia/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
