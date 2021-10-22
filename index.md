@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Categorical Data Analysis](/sample_page)
+[Project 1 Categorical Data Analysis](/project1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
