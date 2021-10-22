@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Categorical Data Analysis](/project1)
+[Project 1 Categorical Data Analysis](/project1.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
